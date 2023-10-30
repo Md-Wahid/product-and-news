@@ -1,2 +1,2 @@
-# product-and-news
+# Product And News
 Product information like news....
